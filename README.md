@@ -1,2 +1,2 @@
 # mltemplates
-Contains Machine Learning Code Templates
+Machine Learning Code Templates
